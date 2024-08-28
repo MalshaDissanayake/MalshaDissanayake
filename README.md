@@ -6,7 +6,7 @@
 
 📈 **Skills:**  
 - **Programming Languages:** Python, R, SQL  
-- **Data Science:** Data Analysis, Machine Learning, Statistical Modeling  
+- **Data Science:** Data Analysis, Statistical Modeling  
 - **Data Engineering:** Data Pipelines, Data Cleaning, Database Management  
 - **Tools:** Git, Jupyter Notebooks, RStudio, VS Code, DBeaver, Docker
 
